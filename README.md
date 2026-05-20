@@ -3,7 +3,6 @@
 - 🌱 **I’m currently learning:** full stack development and DSA.
 - 📫 **How to reach me:** ashishkumar9376900508@gmail.com
 
-- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumawat-115261331) 
 
