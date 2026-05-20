@@ -1,4 +1,9 @@
+# 💫 Hi 👋, I'm Ashish Kumawat
+**A passionate full stack web developer from India**
+- 🌱 **I’m currently learning:** full stack development and DSA.
+- 📫 **How to reach me:** ashishkumar9376900508@gmail.com
 
+- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumawat-115261331) 
 
@@ -8,6 +13,13 @@
 ![](https://github-readme-stats.shion.dev/api?username=Ashishkumawat2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Ashishkumawat2005&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ashishkumawat2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ashishkumawat2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
