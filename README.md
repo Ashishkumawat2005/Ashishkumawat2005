@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Ashish Kumawat
 **A passionate full stack web developer from India**
 - 🌱 **I’m currently learning:** full stack development and DSA.
-- 📫 **How to reach me:** ashishkumar9376900508@gmail.com
+- 📫 **How to reach me:** ashishkumawat631@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkumawat2005/) 
